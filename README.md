@@ -2,7 +2,7 @@
 
 Start building your own carli version with 
 
-sudo ./build.sh
+sudo ./build.sh -v
 
 To be able to build you install this package
 
